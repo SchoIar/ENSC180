@@ -1,5 +1,5 @@
 
-%<Lab 8>
+%<Lab 9b>
 %
 %Apply the Newton-Raphson method to the function f (x) = tanh(x2 − 9) to
 %evaluate its known real root at x = 3. Use an initial guess of x0 = 3.2 and take a minimum
